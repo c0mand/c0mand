@@ -1,6 +1,6 @@
 <img src="аа.png" weidth="100px" height="200px" align="right">
 
-<p style="font-size:24px;">Hi! I'm JonKilo<br>
+<p style="font-size:46px;">Hi! I'm JonKilo<br>
     I Front-end Developer<br>
     I so much love koding<img src="cat-typing.gif" weidth="30px" height="30px">
     <br>
