@@ -1,4 +1,6 @@
-<img src="аа.png" weidth="100px" height="200px" align="right">
+<img src="аа.png" weidth="100px" height="200px" style="position: absolute;    
+right: 30%;
+transform: translate(-50%);">
 
 <p style="font-size:46px;">Hi! I'm JonKilo<br>
     I Front-end Developer<br>
