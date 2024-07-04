@@ -1,4 +1,4 @@
-<img src="аа.png" weidth="100px" height="200px" align="right">
+<img src="аа.png" weidth="200px" height="200px" align="right">
 
 
 <h3>Hi! I'm JonKilo</h3>
