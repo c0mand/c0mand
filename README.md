@@ -1,10 +1,9 @@
 <img src="аа.png" weidth="100px" height="200px" align="right">
 
 
-<h3>Hi! I'm JonKilo</h3><br>
-<h3>I Front-end Developer</h3><br>
+<h3>Hi! I'm JonKilo</h3>
+<h3>I Front-end Developer</h3>
 <h3>I so much love koding</h3><img src="cat-typing.gif" weidth="30px" height="30px">
-<br>
 <h3>My dream to visit Japan</h3><img src="japan.gif" weidth="30px" height="30px">
 
 <br>
