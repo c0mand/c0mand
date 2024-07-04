@@ -1,2 +1,2 @@
 <h1 align="center">Привет</h1>
-<img src="https://photos.app.goo.gl/Jx5u6Ntw3erifoFe9">
+<img src="https://photos.google.com/photo/AF1QipO7SCi_HZND0nrjqYh7-TZPafFcBDDBXPu52fhP">
