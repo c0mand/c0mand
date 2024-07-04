@@ -4,7 +4,7 @@
 <h3>Hi! I'm JonKilo</h3>
 <h3>I Front-end Developer</h3>
 <h3>I so much love koding</h3><img src="cat-typing.gif" weidth="50px" height="50px">
-<h3>My dream to visit Japan</h3> <img src="japan.gif" weidth="30px" height="30px">
+<h3>My dream to visit Japan</h3> <img src="japan.gif" weidth="50px" height="50px">
 
 <br>
 
