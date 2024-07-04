@@ -29,7 +29,7 @@
 <img src="hackworld.gif" style="
 position: absolute;    
 left: 50%;
-    transform: translate(-50%);" width="700px" >
+transform: translate(-50%);" width="700px" />
 
 
 
