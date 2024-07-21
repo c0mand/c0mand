@@ -3,8 +3,8 @@
 
 <h3>Hi! I'm JonKilo</h3>
 <h3>I Front-end Developer</h3>
-<h3>I so much love koding</h3><img src="img/cat-typing.gif" weidth="10px" height="10px">
-<h3>My dream to visit Japan</h3> <img src="img/japan.gif" weidth="10px" height="10px">
+<h3>I so much love koding</h3> <span><img src="img/cat-typing.gif" weidth="10px" height="10px"></span>
+<h3>My dream to visit Japan</h3> <span><img src="img/japan.gif" weidth="10px" height="10px"></span>
 
 <br>
 
