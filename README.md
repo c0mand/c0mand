@@ -1,7 +1,7 @@
 <img src="img/аа.png" weidth="200px" height="300px" align="right">
 
 
-<h3>Hi! I'm MfinDev</h3>
+<h3>Hi! I'm MafinDev</h3>
 <h3>I Front-end Developer</h3>
 <h3>I so much love koding</h3> 
 <h3>My dream to visit Japan</h3> 
