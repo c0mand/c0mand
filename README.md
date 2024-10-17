@@ -24,5 +24,5 @@
 
 <h1></h1>
 <h1 align="center">🌎Hack The World🌎</h1>
-<img src="img/hackworld.gif" width="00px" />
+<img src="img/hackworld.gif" width="900px" />
 
