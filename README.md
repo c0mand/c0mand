@@ -1,4 +1,4 @@
-<img src="img/аа.png" weidth="200px" height="300px" align="right">
+<img src="img/аvatar.png" weidth="200px" height="300px" align="right">
 
 
 <h3>Hi! I'm MafinDev</h3>
@@ -25,4 +25,5 @@
 <h1></h1>
 <h1 align="center">🌎Hack The World🌎</h1>
 <img src="img/hackworld.gif" width="1200px" />
+
 
