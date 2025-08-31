@@ -1,7 +1,7 @@
 <img src="img/avatar.png" weidth="200px" height="300px" align="right">
 
 
-<h3>Hi! I'm MafinDev</h3>
+<h3>Hi! I'm mon3xup</h3>
 <h3>I Front-end Developer</h3>
 <h3>I so much love coding</h3> 
 <h3>My dream to visit Japan</h3> 
@@ -25,6 +25,7 @@
 <h1></h1>
 <h1 align="center">🌎Hack The World🌎</h1>
 <img src="img/hackworld.gif" width="1200px" />
+
 
 
 
